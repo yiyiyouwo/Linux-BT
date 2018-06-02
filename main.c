@@ -1,3 +1,10 @@
+/*
+   Author:yiyiyouwo <goodke2010@163.com>
+   Data: Sat Jun 2 2018
+   
+         Linux BT source code
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
